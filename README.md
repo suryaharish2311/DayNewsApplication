@@ -43,6 +43,10 @@ cd DayNewsApplication
 Your API key is: <<<<bc6526370b7e41559472759b2dac18e6>>>>>>
 
 - Visit newsapi.org and sign up for an API key, Copy the API key provided
+
+  - util Package - > Constants
+    const val NEWS_API_KEY = "bc6526370b7e41559472759b2dac18e6"
 ```
-- Replace "Add your API Key" with the API key you obtained
+
+- Replace "YOUR API Key" with the API key you obtained
 - Build and run the DailyNewsApplication.
