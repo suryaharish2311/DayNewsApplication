@@ -37,3 +37,12 @@ Welcome to DailyNewsApp, a news application built with MVVM with Clean architect
 
 - Clone the Repository:
 ```
+https://github.com/suryaharish2311/DayNewsApplication.git
+cd DayNewsApplication
+
+Your API key is: <<<<bc6526370b7e41559472759b2dac18e6>>>>>>
+
+- Visit newsapi.org and sign up for an API key, Copy the API key provided
+```
+- Replace "Add your API Key" with the API key you obtained
+- Build and run the DailyNewsApplication.
